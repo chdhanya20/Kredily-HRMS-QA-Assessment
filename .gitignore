@@ -1,0 +1,17 @@
+# Android application package
+*.apk
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local environment files and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
